@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 1000px;
+    padding: 0 20px 0 20px;
+}
+
+h1 {
+    color: #666633;
+    padding-left: 20px;
+}
+
+
+/*
+Navbar
+*/
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
